@@ -1,0 +1,14 @@
+image: node
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  script:
+  - yarn install
+  - yarn run tailwind build tailwind.css -c tailwind.config.js -o public/style.css
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
