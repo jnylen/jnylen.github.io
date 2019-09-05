@@ -1,0 +1,12 @@
+{
+  "name": "jnylen.nu",
+  "version": "1.0.0",
+  "description": "Homepage",
+  "main": "index.js",
+  "repository": "https://gitlab.com/jnylen/jnylen.gitlab.io",
+  "author": "jnylen <joakim@nylen.nu>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  }
+}
