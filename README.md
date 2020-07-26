@@ -1,8 +1,4 @@
-# Portfolio / Personal page
+Hi my name is **Joakim Nylén** and I develop various things.
+Mainly in **Elixir** and **Ruby**.
 
-Well yeah. This is my simple portfolio page in basic html with Tailwind CSS.
-
-
-## Build
-
-Look in the `.gitlab-ci.yml` config for the build comman.
+Currently I work at [Kollegorna](https://kollegorna.se) where I do magic behind the scenes.
